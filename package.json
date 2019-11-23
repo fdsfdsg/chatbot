@@ -1,0 +1,26 @@
+{
+  "name": "ubuntu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "husky": "^4.0.0-beta.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "eslint . --ext .js"
+    }
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
