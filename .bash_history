@@ -411,3 +411,16 @@ sudo npm install @slack/rtm-api dotenv
 ls
 nodejs test.js
 exit
+git add .
+git commit -m "슬랙 토큰이 주기적으로 변경되어 키 업데이트"
+git branch
+git push origin develop
+ls
+vi .env 
+vi .env
+nodejs index.js
+vi .env
+nodejs index.js
+exit
+vi .e
+vi .env
