@@ -424,3 +424,12 @@ nodejs index.js
 exit
 vi .e
 vi .env
+git add .
+git commit -m "슬랙봇들 토큰 수정"
+git push origin develop
+git status
+vi .env
+git status
+git add .
+git commit -m "슬랙 api 토큰 계속 동기화"
+git push origin develop
