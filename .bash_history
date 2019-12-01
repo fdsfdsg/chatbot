@@ -329,3 +329,85 @@ vi package.json
 vi test.js
 vi index.js
 vi .env
+git init
+git remote -v
+git remote rm origin
+git init
+ls
+cd chatbot
+ls
+cd ,,
+cd ..
+rmdir chatbot
+cd in
+cd chatbot/
+rm index.js
+ls
+cd ..
+rmdir chatbot
+ls
+git init
+git remote add __ git@github.com:fdsfdsg/chatbot.git
+git remote -v
+git init
+git add README.md
+echo "# chatbot" >> README.md
+git add README.md
+git commit -m "2019 oss chatbot project"
+git init
+git remote add origin git@github.com:fdsfdsg/chatbot.git
+git commit -m "2019 oss chatbot project"
+git push -u origin master
+git config --global user.email "tkdqja4164@naver.com"
+git config --global user.name "SangBeom Park"
+git commit -m "2019 oss chatbot project"
+git remote add origin git@github.com:fdsfdsg/chatbot.git
+git push -u origin master
+git log
+ssh-keygen -t rsa -C "tkdqja4164@naver.com"
+cat /root/.ssh/id_rsa.pub.
+cat ~/root/.ssh/id_rsa.pub.
+cat /root/.ssh/id_rsa.pub
+git push -u origin master
+ls
+git status
+git add.
+git add .
+git commit -m ""
+git commit -m "chatbot"
+git remot -v
+git remote -v
+git push origin master
+git rm -r --cached ".ssh"
+git commit -m "remove directory"
+git push origin master
+exit
+vi README.md 
+git add README.md
+git commit -m "Tracking progress"
+git push origin master
+git checkout -b develop
+git branch
+git pull origin develop
+ls
+vi README.md 
+git add README.md 
+git commit -m "Tracking progress2"
+git push origin develop
+sudo apt install deamonize
+ls
+cd ..
+cd /home/ubuntu
+ls
+nodejs index.js
+ls
+vi test.js 
+nodejs test.js
+ls
+nodejs
+sudo apt-get update
+sudo apt-get install nodejs npm
+sudo npm install @slack/rtm-api dotenv
+ls
+nodejs test.js
+exit
