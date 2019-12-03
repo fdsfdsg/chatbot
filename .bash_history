@@ -433,3 +433,7 @@ git status
 git add .
 git commit -m "슬랙 api 토큰 계속 동기화"
 git push origin develop
+git add .
+git commit -m "slack bot api token이 계속 변경하는걸 .gitignore로 해결"
+git push origin develop
+vi .env
